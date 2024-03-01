@@ -1,0 +1,70 @@
+body{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#welcome-div{
+    padding: 10px 20px 20px 20px;
+}
+
+#welcome-div p{
+    font-size:100px;
+    color: #ff3300;
+    text-align: center;
+    font-weight: bold;
+}
+
+#portfolio-section{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#portfolio-image-box
+{
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #a1a1a1;
+    border-radius: 6px;
+    margin: 20px;
+}
+
+#portfolio-image-box img{
+    width: 100%;
+    border-radius: 6px;
+}
+
+
+#portfolio-details-box
+{
+    width: 600px;
+    padding: 20px;
+    border: 1px solid #a1a1a1;
+    border-radius: 6px;
+    margin: 20px;
+}
+
+
+#portfolio-details-box p {
+    font-size: 25px;
+}
+
+
+.section-box{
+    border: 1px solid #a1a1a1;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+.section-box h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #ff3300;
+}
+
+.section-box p{
+    font-size: 25px;
+    font-weight: bold;
+}
